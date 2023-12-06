@@ -4,7 +4,11 @@ body {
   margin: 0;
   height:100vh;
   width:100vw;
-  color:white;
+  color:white
+
+
+
+  
   font-family: decimal-leading-zero;
   background: linear-gradient(to left top, #cd1342, #c212ce);
 }
